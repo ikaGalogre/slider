@@ -1,6 +1,7 @@
 
 var sliderData = [
     {
+    
         url:    "https://www.google.com/",
         img:  "https://www.split.io/wp-content/uploads/2020/03/react-logo.png",
         title: "title 1"
